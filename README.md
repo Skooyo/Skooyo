@@ -19,5 +19,3 @@ I like building tools for problems I run into, and I love hackathons for the exc
 - **[Duski](https://github.com/Skooyo/Duski)**: Claude-powered personal assistant for Windows. One hotkey for translation and quick searches.
 - **[AWAS](https://github.com/Skooyo/AWAS-Traffic-Monitoring-System)**: real-time pipeline that catches speeding vehicles from streaming traffic camera data.
 - **[SimplifAI](https://github.com/SimplifAI-Eth/SimplifAI)**: voice-controlled crypto management with AI agents. 3 bounties at ETHBangkok 2024.
-
-# 📊GitHub Stats :![](https://github-readme-stats.vercel.app/api?username=Skooyo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=Skooyo&theme=tokyonight&hide_border=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skooyo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/>![](https://github-readme-stats.vercel.app/api/wakatime?username=Skooy\&layout=compact)
