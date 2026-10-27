@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="dusk-painting.webp" width="847" alt="Nian, Dusk and Shu, three bean mascots, walking around inside a painted scroll">
+</p>
+
 # Daven Japhis Tan
 
 Software engineer and CS student at Monash University Malaysia.
