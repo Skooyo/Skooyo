@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="dusk-painting.webp" width="847" alt="Nian, Dusk and Shu, three bean mascots, walking around inside a painted scroll">
-</p>
-
 # Daven Japhis Tan
 
 Software engineer and CS student at Monash University Malaysia.
@@ -23,3 +19,7 @@ I like building tools for problems I run into, and I love hackathons for the exc
 - **[Duski](https://github.com/Skooyo/Duski)**: Claude-powered personal assistant for Windows. One hotkey for translation and quick searches.
 - **[AWAS](https://github.com/Skooyo/AWAS-Traffic-Monitoring-System)**: real-time pipeline that catches speeding vehicles from streaming traffic camera data.
 - **[SimplifAI](https://github.com/SimplifAI-Eth/SimplifAI)**: voice-controlled crypto management with AI agents. 3 bounties at ETHBangkok 2024.
+
+<p align="center">
+  <img src="dusk-painting.webp" width="847" alt="Nian, Dusk and Shu, three bean mascots, walking around inside a painted scroll">
+</p>
