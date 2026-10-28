@@ -6,7 +6,7 @@ I like building tools for problems I run into, and I love hackathons for the exc
 
 ## Find me
  
-🌐 **Check out my portfolio:** [skooy-dev](https://skooy-dev.vercel.app)
+🌐 **Check out my portfolio:** [skooy.space](https://skooy.space)
 
 📄 **Check out my resume:** [Download the PDF](https://skooy-dev.vercel.app/Daven_Japhis_Tan-Developer-Resume.pdf)
 
